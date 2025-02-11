@@ -1,5 +1,10 @@
+<script setup>
+import FormContact from '@/components/FormContact.vue';
+</script>
 <template>
-<p>about</p>
+<p>Kontakta oss</p>
+<FormContact />
+
 </template>
 
 <style>
